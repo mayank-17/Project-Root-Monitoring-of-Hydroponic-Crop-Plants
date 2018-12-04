@@ -9,5 +9,6 @@ The overall goal of the project was to develop an automated root growth analysis
 In particular, roots needed to be classified into two groups:
 * “Hairy” roots
 * “Non-hairy” roots
+
 The “hairier” a root is, the better the root can suck up nutrients.
 The “less hairy” the root is, the fewer nutrients it can intake, potentially leading to the plant starving and dying.
